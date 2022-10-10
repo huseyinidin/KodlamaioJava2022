@@ -1,4 +1,4 @@
-package intro;
+package intro.src.intro;
 
 public class Main {
 
