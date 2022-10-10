@@ -1,4 +1,4 @@
-package oopWithNLayeredApp.entities;
+package oopWithNLayeredApp.src.oopWithNLayeredApp.entities;
 
 public class Product {
 	

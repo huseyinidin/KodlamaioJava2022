@@ -1,12 +1,12 @@
-package oopWithNLayeredApp;
+package oopWithNLayeredApp.src.oopWithNLayeredApp;
 
-import oopWithNLayeredApp.business.ProductManager;
-import oopWithNLayeredApp.core.logging.DatabaseLogger;
-import oopWithNLayeredApp.core.logging.FileLogger;
-import oopWithNLayeredApp.core.logging.Logger;
-import oopWithNLayeredApp.core.logging.MailLogger;
-import oopWithNLayeredApp.dataAccess.HibernateProductDao;
-import oopWithNLayeredApp.entities.Product;
+import oopWithNLayeredApp.src.oopWithNLayeredApp.business.ProductManager;
+import oopWithNLayeredApp.src.oopWithNLayeredApp.core.logging.DatabaseLogger;
+import oopWithNLayeredApp.src.oopWithNLayeredApp.core.logging.FileLogger;
+import oopWithNLayeredApp.src.oopWithNLayeredApp.core.logging.Logger;
+import oopWithNLayeredApp.src.oopWithNLayeredApp.core.logging.MailLogger;
+import oopWithNLayeredApp.src.oopWithNLayeredApp.dataAccess.HibernateProductDao;
+import oopWithNLayeredApp.src.oopWithNLayeredApp.entities.Product;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package oopWithNLayeredApp.core.logging;
+package oopWithNLayeredApp.src.oopWithNLayeredApp.core.logging;
 
 public interface Logger {
 
