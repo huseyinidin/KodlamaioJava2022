@@ -1,4 +1,4 @@
-package oop1;
+package oop1.src.oop1;
 
 public class CorporateCustomer extends Customer {
 

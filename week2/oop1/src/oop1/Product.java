@@ -1,4 +1,4 @@
-package oop1;
+package oop1.src.oop1;
 
 //PascalCase
 public class Product {
