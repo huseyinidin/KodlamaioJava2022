@@ -6,5 +6,5 @@ This repo is made up of codes written on youtube live.
  - **Week 2**
  - **Lecture 2**
 	 - [*OOP*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week2/oop1/src/oop1)
-	
+	 - `OOP`
 	
