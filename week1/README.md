@@ -8,5 +8,5 @@ This repo is made up of codes written on youtube live.
 	 - [*intro*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week1/intro/src/intro)
 	 - `Veriables - Conditionals - Array - Loop`
 	 - [*Hello World*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week1/helloWorld/src/helloWorld)
-
+	 - `Hello World`
 	
