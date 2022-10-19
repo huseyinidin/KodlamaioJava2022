@@ -2,6 +2,7 @@
 ---
 This repo is made up of codes written on youtube live.
 
+### [`GitHub`](https://github.com/huseyinidin/KodlamaioJava2022)
 ### [`YouTube`](https://www.youtube.com/watch?v=-XfPd-cQRuo&t=5892s)
  - **Week 1**
  - **Lecture 1**
