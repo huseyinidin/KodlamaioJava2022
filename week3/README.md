@@ -6,5 +6,5 @@ This repo is made up of codes written on youtube live.
  - **Week 3**
  - **Lecture 3**
 	 - [*OOPWithNLayeredApp*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week3/oopWithNLayeredApp/src/oopWithNLayeredApp)
-	 `OOP - Class & Interface`
+	 - `OOP - Class & Interface`
 	
