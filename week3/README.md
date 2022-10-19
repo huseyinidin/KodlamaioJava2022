@@ -1,4 +1,4 @@
-# Java And React Boot Camp 
+# Java Boot Camp 
 ---
 This repo is made up of codes written on youtube live.
 
