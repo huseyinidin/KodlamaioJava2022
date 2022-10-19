@@ -8,7 +8,8 @@ This repo is made up of codes written on youtube live.
 	 - `Hello World` `Veriables - Conditionals - Array - Loop`
 - **Week 2**
 	 - [*Week 2*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week2)
+	 - `OOP - Field - Getter and Setter - Inheritance`
 - **Week 3**
 	 - [*Week 3*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week3)
-			
+	 - `OOP - Class - Interface - Polymorphism`		
 	
