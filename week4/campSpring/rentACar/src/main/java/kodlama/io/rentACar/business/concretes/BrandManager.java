@@ -16,7 +16,7 @@ public class BrandManager implements BrandService {
 
 	@Autowired
 	public BrandManager(BrandRepository brandRepository) {
-		this.brandRepository = brandRepository;
+		this.brandRepository = brandRepository1;
 	}
 
 	@Override
