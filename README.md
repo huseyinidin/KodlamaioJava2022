@@ -12,4 +12,6 @@ This repo is made up of codes written on youtube live.
 - **Week 3**
 	 - [*Week 3*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week3)
 	 - `OOP - Class - Interface - Polymorphism`		
-	
+- **Week 4**
+	 - [*Week 4*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week4)
+	 - `Spring - @Annotation - @Repository - @Service - @Autowired - @RestController - @RequestMapping - @GetMapping`	
