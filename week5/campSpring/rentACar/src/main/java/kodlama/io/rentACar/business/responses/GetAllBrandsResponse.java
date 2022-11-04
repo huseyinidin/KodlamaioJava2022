@@ -10,6 +10,6 @@ import lombok.NoArgsConstructor;
 public class GetAllBrandsResponse {
 
 	private int id;
-	private String namef;
+	private String name;
 
 }
