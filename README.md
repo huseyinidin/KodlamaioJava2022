@@ -15,3 +15,8 @@ This repo is made up of codes written on youtube live.
 - **Week 4**
 	 - [*Week 4*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week4)
 	 - `Spring - @Annotation - @Repository - @Service - @Autowired - @RestController - @RequestMapping - @GetMapping`	
+- **Week 5**
+	 - [*Week 5*](https://github.com/huseyinidin/KodlamaioJava2022/tree/main/week5)
+	 - `Spring - @Annotation - @Repository - @Service - @Autowired - @RestController - @RequestMapping - @GetMapping`	
+	 - `Spring - JPA - JpaRepository -  Postgresql - application.properties - Lombok - pom.xml`
+	 - `Spring - @Table @Data @AllArgsConstructor @NoArgsConstructor @Entity @Id @GenaratedValue @Column @PostMapping`
