@@ -6,7 +6,7 @@ import kodlama.io.rentACar.business.requests.CreateBrandRequest;
 import kodlama.io.rentACar.business.responses.GetAllBrandsResponse;
 
 public interface BrandService {
-	
+	f
 	List<GetAllBrandsResponse> getAll();
 	void add(CreateBrandRequest createBrandRequest);
 
