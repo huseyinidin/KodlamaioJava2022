@@ -18,7 +18,7 @@ import kodlama.io.rentACar.entities.concretes.Brand;
 public class BrandsController {
 
 	private BrandService brandService;
-f
+
 	@Autowired
 	public BrandsController(BrandService brandService) {
 		this.brandService = brandService;
